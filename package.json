@@ -1,5 +1,6 @@
 {
   "name": "node_webserver_practica2",
+  "type": "module",
   "version": "0.0.1",
   "description": "Web server con NODE",
   "main": "src/index.js",
